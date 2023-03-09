@@ -105,7 +105,7 @@ function EscaladoReal(obj, vp, vs){
         camera.lookAt(scene.position);
 
         // Colores
-        color=[{coloo0r:0xff0000},{color:0x00ff00},{color:0x0000ff}];
+        color=[{color:0x0000FF},{color:0x00ff00},{color:0x0000ff}];
 
         //Geometria para las piramides
         lado=40; //lado de la base de la piramide
